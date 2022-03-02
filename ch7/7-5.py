@@ -20,6 +20,6 @@ x = list(map(int, input().split()))
 for i in x:
     result = binary_search(array, i, 0, n-1)
     if result != None:
-        print('yes', end=' ')
+        print('yess', end=' ')
     else:
         print('no', end=' ')
