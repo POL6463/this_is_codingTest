@@ -32,6 +32,6 @@ for i in range(e):
 
 
 if cycle:
-    print("사이클이 발생했습니다")
+    print("사이클이 발생했습니다..")
 else:
     print("사이클이 발생하지 않았습니다.")
